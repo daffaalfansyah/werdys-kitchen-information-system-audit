@@ -61,14 +61,14 @@ The audit methodology adhered to recognized industry frameworks and rigorous evi
 
 ## 4. Audit Findings & Risk Assessment Matrix
 
-| Ref ID | Finding Description | Evaluation Criteria | Risk Rating | Status |
+| No | Finding Description | Evaluation Criteria | Risk Rating | Status |
 | :---: | :--- | :--- | :---: | :---: |
-| **F-01** | Absence of Scheduled & Automated Database Backups | ISO/IEC 27001 (Annex A.12 - Backup) | **High** | Open |
-| **F-02** | Malfunctioning Generate Report Administrative Feature | ISO/IEC 25010 (Functional Suitability) | **High** | Open |
-| **F-03** | System Performance Degradation & Crash Under Repeated Ordering | ISO/IEC 25010 (Performance Efficiency) | **High** | Open |
-| **F-04** | Dashboard Summary Lacks Real-Time Transaction Synchronization | ISO/IEC 25010 (Functional Suitability) | **Moderate** | Open |
-| **F-05** | User Interface & Usability Defects (Navbar logo, banner cropping, missing About Us data) | ISO/IEC 25010 (Usability & UI Aesthetics) | **Moderate** | Open |
-| **F-06** | Broken Contact Us / Social Media External Links (HTTP 404) | ISO/IEC 25010 (Functional Suitability) | **Moderate** | Open |
+| 1 | Absence of Scheduled & Automated Database Backups | ISO/IEC 27001 (Annex A.12 - Backup) | **High** | Open |
+| 2 | Malfunctioning Generate Report Administrative Feature | ISO/IEC 25010 (Functional Suitability) | **High** | Open |
+| 3 | System Performance Degradation & Crash Under Repeated Ordering | ISO/IEC 25010 (Performance Efficiency) | **High** | Open |
+| 4 | Dashboard Summary Lacks Real-Time Transaction Synchronization | ISO/IEC 25010 (Functional Suitability) | **Moderate** | Open |
+| 5 | User Interface & Usability Defects (Navbar logo, banner cropping, missing About Us data) | ISO/IEC 25010 (Usability & UI Aesthetics) | **Moderate** | Open |
+| 6 | Broken Contact Us / Social Media External Links (HTTP 404) | ISO/IEC 25010 (Functional Suitability) | **Moderate** | Open |
 
 ---
 
@@ -142,14 +142,14 @@ The audit methodology adhered to recognized industry frameworks and rigorous evi
 
 ## 6. Corrective Action Plan & Remediation Roadmap
 
-| Ref | Action Item Description | Responsible Party | Target Completion Date | Priority | Status |
+| No | Action Item Description | Responsible Party | Target Completion Date | Priority | Status |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| **A-01** | Establish automated offsite/cloud database backup routines & test restore procedures | Business Owner / Lead Developer | November 30, 2026 | High | Open |
-| **A-02** | Refactor and validate the Generate Report export engine (PDF/Excel) | Lead Developer | December 15, 2026 | High | Open |
-| **A-03** | Perform load testing, optimize database queries, and implement checkout rate limiting | Lead Developer | December 31, 2026 | High | Open |
-| **A-04** | Implement real-time dashboard data synchronization for transaction metrics | Lead Developer | December 15, 2026 | Medium | Open |
-| **A-05** | Fix navbar logo rendering, responsive banner cropping, and complete About Us content | UI/UX Designer / Developer | November 20, 2026 | Medium | Open |
-| **A-06** | Update and verify all social media hyperlinks and contact routing | Webmaster | November 20, 2026 | Medium | Open |
+| 1 | Establish automated offsite/cloud database backup routines & test restore procedures | Business Owner / Lead Developer | November 30, 2026 | High | Open |
+| 2 | Refactor and validate the Generate Report export engine (PDF/Excel) | Lead Developer | December 15, 2026 | High | Open |
+| 3 | Perform load testing, optimize database queries, and implement checkout rate limiting | Lead Developer | December 31, 2026 | High | Open |
+| 4 | Implement real-time dashboard data synchronization for transaction metrics | Lead Developer | December 15, 2026 | Medium | Open |
+| 5 | Fix navbar logo rendering, responsive banner cropping, and complete About Us content | UI/UX Designer / Developer | November 20, 2026 | Medium | Open |
+| 6 | Update and verify all social media hyperlinks and contact routing | Webmaster | November 20, 2026 | Medium | Open |
 
 ---
 
