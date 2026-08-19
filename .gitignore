@@ -1,0 +1,8 @@
+# Ignore Microsoft Word documents
+*.docx
+*.doc
+~$*
+
+# OS metadata
+Thumbs.db
+.DS_Store
