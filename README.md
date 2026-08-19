@@ -1,11 +1,18 @@
 # Information Systems Technology Audit Report
 ## Werdy's Kitchen - Web Application & Management System
 
+> **Project Type:** Academic Coursework / College Assignment  
+> **Course:** Information Systems Technology Audit (*Audit Teknologi Sistem Informasi*)  
+> **Audited Entity:** Werdy's Kitchen (Web Ordering & Admin Platform)  
 > **Audit Period:** May 6, 2026 - June 5, 2026  
-> **Report Publication Date:** July 5, 2026  
-> **Lead Auditor:** Muhammad Daffa Al Fansyah  
-> **Audited Entity:** Werdy's Kitchen  
-> **Compliance & Quality Standards:** ISO/IEC 27001 (ISMS) | ISO/IEC 25010 (Software Quality) | COBIT Framework  
+> **Report Date:** July 5, 2026  
+> **Lead Auditor / Student:** Muhammad Daffa Al Fansyah  
+> **Frameworks & Standards:** ISO/IEC 27001 (ISMS) | ISO/IEC 25010 (Software Quality) | COBIT Framework  
+
+---
+
+## 🎓 Academic Context & Disclaimer
+This repository and its associated reports were compiled as a coursework deliverable for the **Information Systems Technology Audit (*Audit Teknologi Sistem Informasi*)** course. The objective of this project is to apply theoretical and practical IT auditing methodologies, frameworks, and assessment tools to evaluate the operational effectiveness, information security, and software quality of an active digital enterprise system.
 
 ---
 
@@ -18,7 +25,7 @@ An Information Systems Technology Audit was conducted on the **Werdy's Kitchen**
 - **Admin Management Dashboard:** Authentication mechanisms, menu inventory management, real-time transaction monitoring, order lifecycle status updates, and administrative reporting.
 
 ### Overall Auditor Opinion:
-In general, the Werdy's Kitchen website demonstrates adequate foundational controls for core business transactions (admin authentication, customer checkout, order data persistence, and transaction history tracking). However, the assessment revealed several **High** and **Moderate** vulnerabilities - notably the absence of automated backup routines, non-functional reporting tools, system instability under concurrent transaction load, and broken UI/routing components - that require immediate remediation to ensure business continuity and service quality.
+In general, the Werdy's Kitchen website demonstrates adequate foundational controls for core business transactions (admin authentication, customer checkout, order data persistence, and transaction history tracking). However, the assessment revealed several **High** and **Moderate** vulnerabilities - notably the absence of automated backup routines, non-functional reporting tools, system instability under concurrent transaction load, and broken UI/routing components - that require remediation to ensure business continuity and service quality.
 
 ---
 
@@ -152,7 +159,8 @@ The IT audit concluded that while **Werdy's Kitchen** has established functional
 
 ---
 
-## Auditor Information
-- **Lead Auditor:** Muhammad Daffa Al Fansyah
+## 👤 Auditor & Course Information
+- **Student / Lead Auditor:** Muhammad Daffa Al Fansyah
+- **Course Title:** Audit Teknologi Sistem Informasi (*Information Systems Technology Audit*)
 - **Repository:** [werdys-kitchen-information-system-audit](https://github.com/daffaalfansyah/werdys-kitchen-information-system-audit)
 - **Contact:** daffaalfansyah@gmail.com
