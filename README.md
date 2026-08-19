@@ -163,4 +163,3 @@ The IT audit concluded that while **Werdy's Kitchen** has established functional
 - **Student / Lead Auditor:** Muhammad Daffa Al Fansyah
 - **Course Title:** Audit Teknologi Sistem Informasi (*Information Systems Technology Audit*)
 - **Repository:** [werdys-kitchen-information-system-audit](https://github.com/daffaalfansyah/werdys-kitchen-information-system-audit)
-- **Contact:** daffaalfansyah@gmail.com
